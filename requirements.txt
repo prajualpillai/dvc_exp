@@ -3,4 +3,4 @@ dvc
 dvc_gdrive
 pandas
 ipykernel
-scikit-learn==1.4.1
+scikit-learn
