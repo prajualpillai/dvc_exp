@@ -1,0 +1,5 @@
+dvc
+# gdrivefs
+dvc_gdrive
+pandas
+ipykernel
